@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The crafty miss, or, An excise-man well fitted. Being a true relation of an excise-man who lately in the county of Kent, had received the sum of fourscore pounds, and lighting into the company of a crafty miss who gave him the chouse for it all; and riding away with his gelding, left in the stead a mare which she had stole; for which mare he was arraigned, and narrowly escaped the severe penalty of the law: which may be a suffiecient warning to all excisemen far and near, to amend their lives to hate a miss, and love their wives. To the tune of, Moggies jealousie.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02462</idno>
+            <idno type="STC">Wing C6779</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[577]</idno>
+            <idno type="EEBO-CITATION">99887983</idno>
+            <idno type="PROQUEST">ocm99887983</idno>
+            <idno type="VID">183656</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02462)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183656)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[447])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The crafty miss, or, An excise-man well fitted. Being a true relation of an excise-man who lately in the county of Kent, had received the sum of fourscore pounds, and lighting into the company of a crafty miss who gave him the chouse for it all; and riding away with his gelding, left in the stead a mare which she had stole; for which mare he was arraigned, and narrowly escaped the severe penalty of the law: which may be a suffiecient warning to all excisemen far and near, to amend their lives to hate a miss, and love their wives. To the tune of, Moggies jealousie.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. Deacon,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Verse: "There was an excise-man so fine ..."</note>
+                  <note>Imperfect: trimmed affecting imprint.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Broadsides --  England --  London --  Early works to 1800.</term>
+               <term>Adultery --  England --  Early works to 1800.</term>
+               <term>Robbery --  Early works to 1800.</term>
+               <term>Ballads --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="577" facs="tcp:183656:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 2 -->
+            <head>The Crafty MISS, Or, An <hi>Exciſe-man</hi> well fitted.</head>
+            <argument>
+               <p>Being a true Relation of an Exciſe-man who lately in the County of Kent, had received the ſum of fourſcore pounds, and lighting into the Company of a Crafty Miſs who gave him the Chouſe for it all; and riding away with his Gelding, left in the ſtead a Mare which ſhe had ſtole; for which Mare he was arraigned, and narrowly eſcaped the ſevere penalty of the Law: which may be a ſufficient warning to all Exciſemen far and near, to amend their lives, to hate a Miſs, and love their Wives.</p>
+            </argument>
+            <opener>To the Tune of, Moggies Jealouſie.</opener>
+            <lg>
+               <l>THere was an Exciſe-man ſo fine,</l>
+               <l>rode into the County of Kent,</l>
+               <l>And there he received much Coyn,</l>
+               <l>for that very buſineſs he went:</l>
+               <l>He met with a jolly brave Miſs.</l>
+               <l>her beauty was fair to behold,</l>
+               <l>But ſhe gave him a judas kiſs,</l>
+               <l>and ſhew'd him a trick for his Gold.</l>
+            </lg>
+            <lg>
+               <l>She rod on a bonny brave Mare,</l>
+               <l>he rid on a Gelding alſo,</l>
+               <l>He whiſper'd a word in her ear.</l>
+               <l>ſtraight way to an Inn they did go</l>
+               <l>He was of a pretty Condition,</l>
+               <l>he call'd her the joy of his life,</l>
+               <l>And then without any ſuſpition,</l>
+               <l>they paſſed for Husband and Wife.</l>
+            </lg>
+            <lg>
+               <l>They ſet up the Mare and the Gelding,</l>
+               <l>and call'd for a Supper with ſpeed,</l>
+               <l>Their Wine it was plentily fill'd in,</l>
+               <l>and lovingly then they agreed:</l>
+               <l>O then they were heartily merry,</l>
+               <l>their joys did begin to abound,</l>
+               <l>They drank up full brimmers of ſherry</l>
+               <l>and the Glaſs it went merrily round,</l>
+            </lg>
+            <lg>
+               <l>He had not the ſight of his folly,</l>
+               <l>fond love had ſo blinded his eyes,</l>
+               <l>O then he was heartily jolly,</l>
+               <l>he thought he had gotten a prize,</l>
+               <l>Then whilſt they moſt lovingly greeted,</l>
+               <l>he thought he was certainly bleſſ,</l>
+               <l>But ne'r was Exciſe-man ſo Cheated,</l>
+               <l>O now comes the Cream of the jeſt.</l>
+            </lg>
+            <lg>
+               <l>He pull'd out a Purſe full of Gold,</l>
+               <l>which he had receiv'd for Exciſe,</l>
+               <l>And ſaid to his Landlord, behold,</l>
+               <l>keep this till next morning we riſe;</l>
+               <l>His Miſs ſhe did call him her Honey,</l>
+               <l>and ſtraight to embracing they fall,</l>
+               <l>But her mind ſtill run on the money,</l>
+               <l>to give him the Chouſe for it all</l>
+            </lg>
+            <lg>
+               <l>And while he was ſnoring and ſleeping,</l>
+               <l>ſhe thought it no time to delay.</l>
+               <l>But giving the Landlord a Meeting<g ref="char:punc">▪</g>
+               </l>
+               <l>O thus unto him ſhe did ſay:</l>
+               <l>My husband he has not the power,</l>
+               <l>to riſe although it be day,</l>
+               <l>Yet he hath appointed an hour</l>
+               <l>to pay all this money away.</l>
+            </lg>
+            <lg>
+               <l>The time doth begin to expire,</l>
+               <l>then prithee now ſadle his Steed,</l>
+               <l>And Landlord I do you deſire,</l>
+               <l>to fetch me the Money with ſpeed:</l>
+               <l>The Inn-keeper he did believe it,</l>
+               <l>and fetch her the fourſcore pound,</l>
+               <l>And ſhe was as glad to receive it,</l>
+               <l>ſhe neither ſpar'd Horſe-fleſh nor ground</l>
+            </lg>
+            <lg>
+               <l>But when the Exciſe-man did waken,</l>
+               <l>and found that his Miſs ſhe was fled,</l>
+               <l>And ſeeing himſelf thus forſaken,</l>
+               <l>whils he had been ſleeping a Bed,</l>
+               <l>O then how he rapped and thounder'd,</l>
+               <l>he was in a Cholerick heat;</l>
+               <l>His Pockets was pilleg'd and plunder'd</l>
+               <l>he found he had met with a Cheat.</l>
+            </lg>
+            <lg>
+               <l>The Landlord the Chamber did enter,</l>
+               <l>and bowing himſelf to the ground,</l>
+               <l>Sir have you forgot where you ſent her</l>
+               <l>to pay in the fourſcore pound?</l>
+               <l>The Landlord no ſooner had ſaid it,</l>
+               <l>but then he was daunted ſtraightway</l>
+               <l>But yet for the ſake of his Credit,</l>
+               <l>O never a word he would ſay.</l>
+            </lg>
+            <lg>
+               <l>But then he was fretting and petting.</l>
+               <l>he had ne'r a penny of Cole,</l>
+               <l>His Miſs rid away with the Gelding,</l>
+               <l>and left him a Mare ſhe had ſtole:</l>
+               <l>For which they did ſoon apprehend him,</l>
+               <l>in ſorrow he then did complain,</l>
+               <l>For they to a Priſon did ſend him,</l>
+               <l>where he did till Sizes remain.</l>
+            </lg>
+            <lg>
+               <l>And there he was raign'd at the Bar,</l>
+               <l>beſides all the Money he loſt.</l>
+               <l>O now you Exciſe-men beware,</l>
+               <l>you ſee in your Courting you're croſt</l>
+               <l>The Bill it had like to been found,</l>
+               <l>becauſe he had called for his Wife<g ref="char:punc">▪</g>
+               </l>
+               <l>Is coſt him many a pound,</l>
+               <l>and had like to had<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> coſt him his life.</l>
+            </lg>
+            <lg>
+               <l>This was in Rocheſter City,</l>
+               <l>the truth you may certainly find,</l>
+               <l>The people afforded no pitty,</l>
+               <l>but ſaid he was ſerv'd in his kind:</l>
+               <l>But now the Exciſe-man is ſorry</l>
+               <l>that ever he met with this Iade,</l>
+               <l>For ſure ſhe had learned her Iurry,</l>
+               <l>ſhe lackt but a ſtock to her Trade</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
